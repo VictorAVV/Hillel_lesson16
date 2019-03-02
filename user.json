@@ -1,0 +1,13 @@
+{
+    "firstName" : "Иван",
+    "lastName" : "Иванов",
+    "address":{
+        "country" : "Украина",
+        "city" : "Харьков",
+        "homeNumber" : 22
+    },
+    "phoneNumbers" : [
+        "+380 66 12 34 567",
+        "+380 98 88 88 868"
+    ]
+}
